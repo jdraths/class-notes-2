@@ -2,16 +2,12 @@
   // These tasks will run in order when initializing your CodeSandbox project.
   "setupTasks": [
     {
-      "name": "Changing Directories",
-      "command": "cd /project/class-notes-2/class-notes"
-    },
-    {
       "name": "Installing Dependencies",
-      "command": "npm install"
+      "command": "cd /project/class-notes-2/class-notes && npm install"
     },
     {
       "name": "Building Workspace",
-      "command": "npm run start"
+      "command": "cd /project/class-notes-2/class-notes && npm run start"
     }
   ],
 
