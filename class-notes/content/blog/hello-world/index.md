@@ -1,24 +1,18 @@
 ---
 title: Hi
-date: "2015-05-01T22:12:03.284Z"
-description: "Hello World"
+date: "October 12 2022"
+description: "Hi this is my very first blog so I hope you enjoy it"
 ---
 
-This is my first post on my new fake blog! How exciting!
+Some things about me is that I like to play soccer a lot and play some video games!
 
 I'm sure I'll write a lot more interesting things in the future.
 
 Oh, and here's a great quote from this Wikipedia on
 [salted duck eggs](https://en.wikipedia.org/wiki/Salted_duck_egg).
 
-> A salted duck egg is a Chinese preserved food product made by soaking duck
-> eggs in brine, or packing each egg in damp, salted charcoal. In Asian
-> supermarkets, these eggs are sometimes sold covered in a thick layer of salted
-> charcoal paste. The eggs may also be sold with the salted paste removed,
-> wrapped in plastic, and vacuum packed. From the salt curing process, the
-> salted duck eggs have a briny aroma, a gelatin-like egg white and a
-> firm-textured, round yolk that is bright orange-red in color.
-
+> One thing I love about soccer is how competetive the sport is. I love all the new jersey'
+>I also love the world cup and how the entire world would tune in an watch it
 ![Chinese Salty Egg](./salty_egg.jpg)
 
 You can also write code blocks here!
