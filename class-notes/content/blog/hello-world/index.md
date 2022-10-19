@@ -1,5 +1,5 @@
 ---
-title: Hi
+title: Lorem
 date: "October 12 2022"
 description: "Hi this is my very first blog so I hope you enjoy it"
 ---
