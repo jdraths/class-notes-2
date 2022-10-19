@@ -1,12 +1,12 @@
 ---
 Title:Liverpool
 date: "2015-05-01T22:12:03.284Z"
-description: "All about me"
+description: "This is about my favorite sport"
 ---
 
-Im going to try my best with this introduction!
+>Im going to try my best with this introduction!
 
-I'm sure I'll write a lot more interesting things in the future.
+>I'm sure I'll write a lot more interesting things in the future.
 
 Oh, and here's a great quote from this Wikipedia on
 [salted duck eggs](https://en.wikipedia.org/wiki/Salted_duck_egg).
