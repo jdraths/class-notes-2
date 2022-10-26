@@ -11,7 +11,7 @@ description: "This is about my favorite sport"
 Oh, and here's a great quote from this Wikipedia on
 [salted duck eggs](https://en.wikipedia.org/wiki/Salted_duck_egg).
 
->Liverpool is a football club in England. It is one of the best clubs right now and was in the finals against Real Madrid in the champions league. Although they lost, they still are a very great teams. Some of their best players are Van Dijk and Mohammed Salah. You also can play many other sports.
+>Liverpool is a football club in England. It is one of the best clubs right now and was in the finals against Real Madrid in the champions league. Although they lost, they still are a very great teams. Some of their best players are Van Dijk and Mohammed Salah. You also can play many other sports. hello my good sir
 
 ![Chinese Salty Egg](./salty_egg.jpg)
 
