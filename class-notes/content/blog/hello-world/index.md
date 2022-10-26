@@ -1,17 +1,17 @@
 ---
 Title:Liverpool
 date: "2015-05-01T22:12:03.284Z"
-description: "All about me"
+description: "This is about my favorite sport"
 ---
 
-This is my first post on my new fake blog! How exciting!
+>Im going to try my best with this introduction!
 
-I'm sure I'll write a lot more interesting things in the future.
+>I'm sure I'll write a lot more interesting things in the future.
 
 Oh, and here's a great quote from this Wikipedia on
 [salted duck eggs](https://en.wikipedia.org/wiki/Salted_duck_egg).
 
->Liverpool is a football club in England. It is one of the best clubs right now and was in the finals against Real Madrid in the champions league. Although they lost, they still are a very great teams. Some of their best players are Van Dijk and Mohammed Salah. You also can play many other sports.
+>Liverpool is a football club in England. It is one of the best clubs right now and was in the finals against Real Madrid in the champions league. Although they lost, they still are a very great teams. Some of their best players are Van Dijk and Mohammed Salah. You also can play many other sports. hello my good sir
 
 ![Chinese Salty Egg](./salty_egg.jpg)
 
